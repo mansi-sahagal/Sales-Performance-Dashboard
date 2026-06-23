@@ -47,5 +47,7 @@ show what the dashboard look like
 <img width="1377" height="775" alt="Screenshot 2026-06-23 092153" src="https://github.com/user-attachments/assets/efdea4df-1294-4612-a125-2945887aa9b5" />
 
 8. Author
-Mansi Sahagal
-B.Tech CSE Student | Aspiring Frontend Developer & Data Analyst
+   
+Mansi Sahagal       
+B.Tech CSE Student  
+Aspiring Frontend Developer & Data Analyst
