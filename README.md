@@ -1,6 +1,7 @@
 📊 Sales Performance Dashboard
 
 1. Project Title / Headline
+   
 📈 Sales Performance Dashboard – Business Sales & Profit Insights
 
 An interactive Power BI dashboard designed to analyze sales performance, profit trends, product performance, and customer purchasing behavior through dynamic visualizations and filtering options.# Sales-Performance-Dashboard
@@ -32,6 +33,7 @@ The dashboard was built using the following tools and technologies:
 🎨 Modern and visually engaging dashboard design
 
 5. Business Impact & Insights
+   
 This dashboard helps organizations:
 Monitor overall sales performance efficiently.
 Identify top-performing products and categories.
@@ -40,10 +42,10 @@ Understand customer payment preferences.
 Support strategic decision-making with data-driven insights.
 Improve sales planning and business growth strategies.
 
-6. Dashboard Preview
+7. Dashboard Preview
 show what the dashboard look like
 <img width="1377" height="775" alt="Screenshot 2026-06-23 092153" src="https://github.com/user-attachments/assets/efdea4df-1294-4612-a125-2945887aa9b5" />
 
-7. Author
+8. Author
 Mansi Sahagal
 B.Tech CSE Student | Aspiring Frontend Developer & Data Analyst
